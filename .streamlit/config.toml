@@ -1,0 +1,15 @@
+# Two themes, so the theme picker shows up in the ⋮ menu (Light / Dark / System).
+[theme]
+font = "sans serif"
+
+[theme.light]
+primaryColor = "#6C5CE7"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F1FF"
+textColor = "#1F1B3A"
+
+[theme.dark]
+primaryColor = "#8B7CF6"
+backgroundColor = "#14121F"
+secondaryBackgroundColor = "#221F38"
+textColor = "#EDEAFF"
